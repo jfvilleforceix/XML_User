@@ -472,77 +472,127 @@ See https://en.wikipedia.org/wiki/Image_sensor_format#Table_of_sensor_formats_an
 	</CameraEntry>
 
 <!-- GoPro -->
-
+	<!-- HERO -->  
 	<CameraEntry>
-		<Name> GoPro HD Hero </Name>
-		<SzCaptMm> 4.56 6.17 </SzCaptMm>
-		<ShortName> GoPro HD Hero </ShortName>
+		<Name> GoPro HD HERO </Name>
+		<SzCaptMm> 4.29 5.76 </SzCaptMm>
+		<ShortName> GoPro HD HERO </ShortName>
 	</CameraEntry>
 	<CameraEntry>
-		<Name> GoPro HD2</Name>
-		<SzCaptMm> 4.56 6.17 </SzCaptMm>
-		<ShortName> GoPro HD Hero 2</ShortName>
+		<Name> GoPro HD HERO 960 </Name>
+		<SzCaptMm> 4.29 5.76 </SzCaptMm>
+		<ShortName> GoPro HD HERO 960 </ShortName>
 	</CameraEntry>
 	<CameraEntry>
-		<Name> GoPro HERO3 White Edition</Name>
-		<SzCaptMm> 3.42 4.54 </SzCaptMm>
-		<ShortName> GoPro HD Hero 3</ShortName>
+		<Name> GoPro HD HERO2 </Name>
+		<SzCaptMm> 4.55 6.17 </SzCaptMm>
+		<ShortName> GoPro HD HERO2 </ShortName>
 	</CameraEntry>
 	<CameraEntry>
-		<Name> GoPro HERO3 Silver Edition</Name>
-		<SzCaptMm> 3.42 4.54 </SzCaptMm>
-		<ShortName> GoPro HD Hero 3</ShortName>
+		<Name> GoPro HERO3 White Edition </Name>
+		<SzCaptMm> 4.29 5.76 </SzCaptMm>
+		<ShortName> GoPro HERO3 White Edition </ShortName>
 	</CameraEntry>
 	<CameraEntry>
-		<Name> GoPro HERO3 Black Edition</Name>
-		<SzCaptMm> 4.56 6.17 </SzCaptMm>
-		<ShortName> GoPro HD Hero 3</ShortName>
+		<Name> GoPro HERO3 Silver Edition </Name>
+		<SzCaptMm> 4.04 5.37 </SzCaptMm>
+		<ShortName> GoPro HERO3 Silver Edition </ShortName>
 	</CameraEntry>
 	<CameraEntry>
-		<Name> GoPro HERO3+ Silver Edition</Name>
-		<SzCaptMm> 3.42 4.54 </SzCaptMm>
-		<ShortName> GoPro HD Hero 3</ShortName>
+		<Name> GoPro HERO3 Black Edition </Name>
+		<SzCaptMm> 4.69 6.25 </SzCaptMm>
+		<ShortName> GoPro HERO3 Black Edition </ShortName>
 	</CameraEntry>
 	<CameraEntry>
-		<Name> GoPro HERO3+ Black Edition</Name>
-		<SzCaptMm> 4.56 6.17 </SzCaptMm>
-		<ShortName> GoPro HD Hero 3</ShortName>
+		<Name> GoPro HERO3+ Silver Edition </Name>
+		<SzCaptMm> 4.04 5.37 </SzCaptMm>
+		<ShortName> GoPro HERO3+ Silver Edition </ShortName>
 	</CameraEntry>
 	<CameraEntry>
-		<Name> GoPro HERO4 Session</Name>
+		<Name> GoPro HERO3+ Black Edition </Name>
+		<SzCaptMm> 4.69 6.25 </SzCaptMm>
+		<ShortName> GoPro HERO3+ Black Edition </ShortName>
+	</CameraEntry>
+	<CameraEntry>
+		<Name> GoPro HERO4 Session </Name>
 		<SzCaptMm> 3.42 4.54 </SzCaptMm>
 		<ShortName> GoPro HERO4 Session </ShortName>
 	</CameraEntry>
 	<CameraEntry>
 		<Name> GoPro HERO4 Silver</Name>
-		<SzCaptMm> 4.56 6.17 </SzCaptMm>
+		<SzCaptMm> 4.55 6.17 </SzCaptMm>
 		<ShortName> GoPro HERO4 Silver </ShortName>
 	</CameraEntry>
 	<CameraEntry>
-		<Name> GoPro HERO4 Black</Name>
-		<SzCaptMm> 4.56 6.17 </SzCaptMm>
-		<ShortName> GoPro HD Hero 4 Bk</ShortName>
+		<Name> GoPro HERO4 Black </Name>
+		<SzCaptMm> 4.69 6.25 </SzCaptMm>
+		<ShortName> GoPro HERO4 Black </ShortName>
 	</CameraEntry>
 	<CameraEntry>
-		<Name> GoPro HERO5 Session</Name>
+		<Name> GoPro HERO 2014 </Name>
+		<SzCaptMm> 3.42 4.54 </SzCaptMm>
+		<ShortName> GoPro HERO 2014 </ShortName>
+	</CameraEntry>
+	<CameraEntry>
+		<Name> GoPro HERO+ LCD </Name>
+		<SzCaptMm> 3.42 4.54 </SzCaptMm>
+		<ShortName> GoPro HERO+ LCD </ShortName>
+	</CameraEntry>
+	<CameraEntry>
+		<Name> GoPro HERO+ </Name>
+		<SzCaptMm> 3.42 4.54 </SzCaptMm>
+		<ShortName> GoPro HERO+ </ShortName>
+	</CameraEntry>
+	<CameraEntry>
+		<Name> GoPro HERO5 Session </Name>
 		<SzCaptMm> 3.42 4.54 </SzCaptMm>
 		<ShortName> GoPro HERO5 Session </ShortName>
 	</CameraEntry>
 	<CameraEntry>
-		<Name> GoPro HERO5 Black</Name>
-		<SzCaptMm> 4.56 6.17 </SzCaptMm>
-		<ShortName> GoPro HD Hero 5 Bk</ShortName>
+		<Name> GoPro HERO5 Black </Name>
+		<SzCaptMm> 4.69 6.25 </SzCaptMm>
+		<ShortName> GoPro HERO5 Black </ShortName>
 	</CameraEntry>
 	<CameraEntry>
-		<Name> GoPro YHDC5170 </Name>
-		<SzCaptMm> 2.54 5.91 </SzCaptMm>
-		<ShortName> GoPro </ShortName>
+		<Name> GoPro HERO6 Black </Name>
+		<SzCaptMm> 4.69 6.25 </SzCaptMm>
+		<ShortName> GoPro HERO6 Black </ShortName>
 	</CameraEntry>
-
 	<CameraEntry>
-		<Name> GoProVideoLM  </Name>  <!-- Go Pro used for Lalane Mayeul internship, dont know which one -->
-		<SzCaptMm> 4.9  8.7 </SzCaptMm>
-		<ShortName> GoProVideoLM </ShortName>
+		<Name> GoPro HERO 2018 </Name>
+		<SzCaptMm> 4.29 5.76 </SzCaptMm>
+		<ShortName> GoPro HERO 2018 </ShortName>
+	</CameraEntry>
+	<CameraEntry>
+		<Name> GoPro HERO7 White </Name>
+		<SzCaptMm> 3.52 4.69 </SzCaptMm>
+		<ShortName> GoPro HERO7 White </ShortName>
+	</CameraEntry>
+	<CameraEntry>
+		<Name> GoPro HERO7 Silver </Name>
+		<SzCaptMm> 3.52 4.69 </SzCaptMm>
+		<ShortName> GoPro HERO7 Silver </ShortName>
+	</CameraEntry>
+	<CameraEntry>
+		<Name> GoPro HERO7 Black </Name>
+		<SzCaptMm> 4.69 6.25 </SzCaptMm>
+		<ShortName> GoPro HERO7 Black </ShortName>
+	</CameraEntry>
+	<CameraEntry>
+		<Name> GoPro HERO8 Black </Name>
+		<SzCaptMm> 4.69 6.25 </SzCaptMm>
+		<ShortName> GoPro HERO8 Black </ShortName>
+	</CameraEntry>
+	<!-- 360 -->  
+	<CameraEntry>
+		<Name> GoPro Fusion </Name>
+		<SzCaptMm> 4.55 6.17 </SzCaptMm>
+		<ShortName> GoPro Fusion </ShortName>
+	</CameraEntry>
+	<CameraEntry>
+		<Name> GoPro MAX </Name>
+		<SzCaptMm> 4.71 6.29 </SzCaptMm>
+		<ShortName> GoPro MAX </ShortName>
 	</CameraEntry>
 
 <!-- Smartphones -->   
@@ -577,7 +627,7 @@ See https://en.wikipedia.org/wiki/Image_sensor_format#Table_of_sensor_formats_an
 	<CameraEntry>
         <Name> Samsung Galaxy Tab A T585 </Name>
         <SzCaptMm> 2.7 3.6 </SzCaptMm>
-        <ShortName> Samsung-GalaxyTabA-T585 </ShortName>
+        <ShortName> Samsung Galaxy T585 </ShortName>
    	</CameraEntry> 
 
 
