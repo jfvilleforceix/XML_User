@@ -136,6 +136,11 @@ See https://en.wikipedia.org/wiki/Image_sensor_format#Table_of_sensor_formats_an
         <Name> Canon IXUS 105 </Name>
         <SzCaptMm> 5.1 3.8 </SzCaptMm>
         <ShortName> CI105 </ShortName>
+   </CameraEntry>
+   <CameraEntry>
+        <Name> Canon PowerShot G1 X Mark III </Name>
+        <SzCaptMm> 14.9 22.3 </SzCaptMm>
+        <ShortName> CPSG1XM3 </ShortName>
    </CameraEntry>  
    
  <!-- Nikon DSLR -->  
