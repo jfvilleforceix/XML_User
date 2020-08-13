@@ -644,6 +644,15 @@ See https://en.wikipedia.org/wiki/Image_sensor_format#Table_of_sensor_formats_an
         <ShortName> DS-2CE56D0T-IRMF </ShortName>
    </CameraEntry> 
 
+<!-- Action cams -->
+   <CameraEntry>
+	   <Name> Best Buy Easy Snap HD Aqua WiFi </Name>
+        <SzCaptMm> 3.33 5.88 </SzCaptMm>
+        <ShortName> BBESHDAW </ShortName>
+   </CameraEntry> 
+
+
+
 
 <!-- Other -->	
 	<CameraEntry>
