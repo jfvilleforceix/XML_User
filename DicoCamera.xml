@@ -651,6 +651,12 @@ See https://en.wikipedia.org/wiki/Image_sensor_format#Table_of_sensor_formats_an
         <ShortName> BBESHDAW </ShortName>
    </CameraEntry> 
 
+<!-- UAV / drones -->
+   <CameraEntry>
+	   <Name> L1D-20c </Name>
+        <SzCaptMm> 8.8 13.2 </SzCaptMm>
+        <ShortName> Mavic 2 Pro Hasselblad L1D-20c </ShortName>
+   </CameraEntry> 
 
 
 
