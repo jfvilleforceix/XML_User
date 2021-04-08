@@ -637,6 +637,11 @@ See https://en.wikipedia.org/wiki/Image_sensor_format#Table_of_sensor_formats_an
         <SzCaptMm> 4.04 5.37 </SzCaptMm>
         <ShortName> Huawei P30 Pro ultrawide </ShortName>
    </CameraEntry> 
+   <CameraEntry>
+        <Name> Huawei P30 Pro wide </Name>
+        <SzCaptMm> 5.70 7.60 </SzCaptMm>
+        <ShortName> Huawei P30 Pro wide </ShortName>
+   </CameraEntry> 
 
 <!-- Tablets -->  
 	<CameraEntry>
@@ -663,12 +668,20 @@ See https://en.wikipedia.org/wiki/Image_sensor_format#Table_of_sensor_formats_an
 
 <!-- UAV / drones -->
    <CameraEntry>
+	   <Name> FC220 </Name>
+        <SzCaptMm> 4.55 6.17 </SzCaptMm>
+        <ShortName> Mavic Pro FC220 </ShortName>
+   </CameraEntry> 
+   <CameraEntry>
+	   <Name> Mavic Air </Name>
+        <SzCaptMm> 4.55 6.17 </SzCaptMm>
+        <ShortName> Mavic Air Camera </ShortName>
+   </CameraEntry> 
+   <CameraEntry>
 	   <Name> L1D-20c </Name>
         <SzCaptMm> 8.8 13.2 </SzCaptMm>
         <ShortName> Mavic 2 Pro Hasselblad L1D-20c </ShortName>
    </CameraEntry> 
-
-
 
 <!-- Other -->	
 	<CameraEntry>
