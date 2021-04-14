@@ -638,9 +638,9 @@ See https://en.wikipedia.org/wiki/Image_sensor_format#Table_of_sensor_formats_an
         <ShortName> Huawei P30 Pro ultrawide </ShortName>
    </CameraEntry> 
    <CameraEntry>
-        <Name> Huawei P30 Pro wide </Name>
-        <SzCaptMm> 5.70 7.60 </SzCaptMm>
-        <ShortName> Huawei P30 Pro wide </ShortName>
+        <Name> Samsung Galaxy S9 </Name>
+        <SzCaptMm> 3.00 4.00 </SzCaptMm>
+        <ShortName> SM-G960F </ShortName>
    </CameraEntry> 
 
 <!-- Tablets -->  
