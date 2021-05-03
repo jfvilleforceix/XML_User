@@ -588,6 +588,11 @@ See https://en.wikipedia.org/wiki/Image_sensor_format#Table_of_sensor_formats_an
 		<SzCaptMm> 4.69 6.25 </SzCaptMm>
 		<ShortName> GoPro HERO8 Black </ShortName>
 	</CameraEntry>
+	<CameraEntry>
+		<Name> GoPro HERO8 Black 16-9 </Name>
+		<SzCaptMm> 3.52 6.25 </SzCaptMm>
+		<ShortName> GoPro HERO8 Black 16-9 </ShortName>
+	</CameraEntry>
 	<!-- 360 -->  
 	<CameraEntry>
 		<Name> GoPro Fusion </Name>
@@ -641,6 +646,11 @@ See https://en.wikipedia.org/wiki/Image_sensor_format#Table_of_sensor_formats_an
         <Name> Samsung Galaxy S9 </Name>
         <SzCaptMm> 4.236 5.648 </SzCaptMm>
         <ShortName> SM-G960F </ShortName>
+   </CameraEntry> 
+   <CameraEntry>
+        <Name> ONEPLUS A6013 </Name>
+        <SzCaptMm> 2,504 5.462 </SzCaptMm>
+        <ShortName> OnePlus 6T IMX519 16MP </ShortName>
    </CameraEntry> 
 
 <!-- Tablets -->  
