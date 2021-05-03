@@ -649,7 +649,7 @@ See https://en.wikipedia.org/wiki/Image_sensor_format#Table_of_sensor_formats_an
    </CameraEntry> 
    <CameraEntry>
         <Name> ONEPLUS A6013 </Name>
-        <SzCaptMm> 2,504 5.462 </SzCaptMm>
+        <SzCaptMm> 2.504 5.462 </SzCaptMm>
         <ShortName> OnePlus 6T IMX519 16MP </ShortName>
    </CameraEntry> 
 
