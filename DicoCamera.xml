@@ -652,6 +652,11 @@ See https://en.wikipedia.org/wiki/Image_sensor_format#Table_of_sensor_formats_an
         <SzCaptMm> 2.504 5.462 </SzCaptMm>
         <ShortName> OnePlus 6T IMX519 16MP </ShortName>
    </CameraEntry> 
+   <CameraEntry>
+        <Name> Apple iPhone 11 wide video </Name>
+        <SzCaptMm> 3.15 5.60 </SzCaptMm>
+        <ShortName> iPhone11widevideo </ShortName>
+   </CameraEntry>
 
 <!-- Tablets -->  
 	<CameraEntry>
@@ -665,6 +670,7 @@ See https://en.wikipedia.org/wiki/Image_sensor_format#Table_of_sensor_formats_an
 
    <CameraEntry>
         <Name> Hikvision 2MP DS-2CE56D0T-IRMF </Name>
+        <!-- <SzCaptMm> 3.0 5.4 </SzCaptMm> --> 
         <SzCaptMm> 3.0 5.4 </SzCaptMm>
         <ShortName> DS-2CE56D0T-IRMF </ShortName>
    </CameraEntry> 
