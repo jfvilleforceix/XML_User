@@ -698,6 +698,11 @@ See https://en.wikipedia.org/wiki/Image_sensor_format#Table_of_sensor_formats_an
         <SzCaptMm> 8.8 13.2 </SzCaptMm>
         <ShortName> Mavic 2 Pro Hasselblad L1D-20c </ShortName>
    </CameraEntry> 
+   <CameraEntry>
+	   <Name> FC2220 </Name>
+        <SzCaptMm> 4.62 6.16 </SzCaptMm>
+        <ShortName> Mavic 2 Enterprise FC2220 </ShortName>
+   </CameraEntry> 
 
 <!-- Other -->	
 	<CameraEntry>
