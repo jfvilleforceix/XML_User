@@ -657,6 +657,11 @@ See https://en.wikipedia.org/wiki/Image_sensor_format#Table_of_sensor_formats_an
         <SzCaptMm> 3.15 5.60 </SzCaptMm>
         <ShortName> iPhone11widevideo </ShortName>
    </CameraEntry>
+   <CameraEntry>
+        <Name> Apple iPhone 12 Pro wide video </Name>
+        <SzCaptMm> 4.23 5.64 </SzCaptMm>
+        <ShortName> iPhone12prowidevideo </ShortName>
+   </CameraEntry>
 
 <!-- Tablets -->  
 	<CameraEntry>
