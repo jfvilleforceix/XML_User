@@ -708,6 +708,11 @@ See https://en.wikipedia.org/wiki/Image_sensor_format#Table_of_sensor_formats_an
         <SzCaptMm> 4.62 6.16 </SzCaptMm>
         <ShortName> Mavic 2 Enterprise FC2220 </ShortName>
    </CameraEntry> 
+   <CameraEntry>
+	   <Name> FC6310 </Name>
+        <SzCaptMm> 8.8 13.2 </SzCaptMm>
+        <ShortName> Phantom 4 Pro / Advanced FC6310 </ShortName>
+   </CameraEntry> 
 
 <!-- Other -->	
 	<CameraEntry>
