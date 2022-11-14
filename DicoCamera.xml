@@ -707,6 +707,11 @@ See https://en.wikipedia.org/wiki/Image_sensor_format#Table_of_sensor_formats_an
 	   <Name> FC2220 </Name>
         <SzCaptMm> 4.62 6.16 </SzCaptMm>
         <ShortName> Mavic 2 Enterprise FC2220 </ShortName>
+   </CameraEntry>
+   <CameraEntry>
+	   <Name> FC2204 </Name>
+        <SzCaptMm> 4.7 6.3 </SzCaptMm>
+        <ShortName> Mavic 2 Zoom FC2204 </ShortName>
    </CameraEntry> 
    <CameraEntry>
 	   <Name> FC6310 </Name>
