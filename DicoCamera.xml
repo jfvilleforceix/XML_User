@@ -475,6 +475,11 @@ See https://en.wikipedia.org/wiki/Image_sensor_format#Table_of_sensor_formats_an
 		<SzCaptMm> 13 17.3 </SzCaptMm>
 		<ShortName> Panasonic DMC-GH6  </ShortName>
 	</CameraEntry>
+	<CameraEntry>
+		<Name>  DMC-FZ300 </Name>
+		<SzCaptMm> 4.55 6.17 </SzCaptMm>
+		<ShortName> Panasonic DMC-FZ300  </ShortName>
+	</CameraEntry>
 
 <!-- GoPro -->
 	<!-- HERO -->  
