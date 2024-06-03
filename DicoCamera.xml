@@ -598,6 +598,11 @@ See https://en.wikipedia.org/wiki/Image_sensor_format#Table_of_sensor_formats_an
 		<SzCaptMm> 3.52 6.25 </SzCaptMm>
 		<ShortName> GoPro HERO8 Black 16-9 </ShortName>
 	</CameraEntry>
+	<CameraEntry>
+		<Name> GoPro HERO10 Black </Name>
+		<SzCaptMm> 4.71 6.28 </SzCaptMm>
+		<ShortName> GoPro HERO10 Black </ShortName>
+	</CameraEntry>
 	<!-- 360 -->  
 	<CameraEntry>
 		<Name> GoPro Fusion </Name>
@@ -666,6 +671,21 @@ See https://en.wikipedia.org/wiki/Image_sensor_format#Table_of_sensor_formats_an
         <Name> Apple iPhone 12 Pro wide video </Name>
         <SzCaptMm> 4.23 5.64 </SzCaptMm>
         <ShortName> iPhone12prowidevideo </ShortName>
+   </CameraEntry>
+   <CameraEntry>
+        <Name> Apple iPhone 11 Pro ultrawide video </Name>
+        <SzCaptMm> 2.42 4.30 </SzCaptMm>
+        <ShortName> iPhone12proultrawidevideo </ShortName>
+   </CameraEntry>
+   <CameraEntry>
+        <Name> Google Pixel 6 Pro wide video </Name>
+        <SzCaptMm> 7.33 9.77 </SzCaptMm>
+        <ShortName> googlepixel6prowidevideo </ShortName>
+   </CameraEntry>
+   <CameraEntry>
+        <Name> iPhone 14 Pro </Name>
+        <SzCaptMm> 7.3 9.8 </SzCaptMm>
+        <ShortName>iphone14promaincamera </ShortName>
    </CameraEntry>
 
 <!-- Tablets -->  
