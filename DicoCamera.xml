@@ -704,6 +704,12 @@ See https://en.wikipedia.org/wiki/Image_sensor_format#Table_of_sensor_formats_an
         <SzCaptMm> 3.0 5.4 </SzCaptMm>
         <ShortName> DS-2CE56D0T-IRMF </ShortName>
    </CameraEntry> 
+   <CameraEntry>
+        <Name> AXIS P1435-LE </Name>
+        <!-- 4:3 size <SzCaptMm> 3.86 5.14 </SzCaptMm> --> 
+        <SzCaptMm> 2.89 5.14 </SzCaptMm>
+        <ShortName> AXIS P1435-LE </ShortName>
+   </CameraEntry> 
 
 <!-- Action cams -->
    <CameraEntry>
