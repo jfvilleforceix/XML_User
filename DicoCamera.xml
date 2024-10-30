@@ -721,12 +721,12 @@ See https://en.wikipedia.org/wiki/Image_sensor_format#Table_of_sensor_formats_an
 <!-- UAV / drones -->
    <CameraEntry>
 	   <Name> FC220 </Name>
-        <SzCaptMm> 4.55 6.17 </SzCaptMm>
+        <SzCaptMm> 4.7 6.3 </SzCaptMm>
         <ShortName> Mavic Pro FC220 </ShortName>
    </CameraEntry> 
    <CameraEntry>
 	   <Name> Mavic Air </Name>
-        <SzCaptMm> 4.55 6.17 </SzCaptMm>
+        <SzCaptMm> 4.7 6.3 </SzCaptMm>
         <ShortName> Mavic Air Camera </ShortName>
    </CameraEntry> 
    <CameraEntry>
@@ -748,6 +748,11 @@ See https://en.wikipedia.org/wiki/Image_sensor_format#Table_of_sensor_formats_an
 	   <Name> FC6310 </Name>
         <SzCaptMm> 8.8 13.2 </SzCaptMm>
         <ShortName> Phantom 4 Pro / Advanced FC6310 </ShortName>
+   </CameraEntry> 
+   <CameraEntry>
+	   <Name> FC8482 </Name>
+        <SzCaptMm> 8.8 13.2 </SzCaptMm>
+        <ShortName> Mini 4 Pro FC8482 </ShortName>
    </CameraEntry> 
 
 <!-- Other -->	
