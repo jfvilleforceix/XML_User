@@ -603,6 +603,12 @@ See https://en.wikipedia.org/wiki/Image_sensor_format#Table_of_sensor_formats_an
 		<SzCaptMm> 4.71 6.28 </SzCaptMm>
 		<ShortName> GoPro HERO10 Black </ShortName>
 	</CameraEntry>
+	<!-- Same specs for HERO11 Black Mini -->
+	<CameraEntry>
+		<Name> GoPro HERO11 Black 16-9 </Name>
+		<SzCaptMm> 3.53 6.27 </SzCaptMm>
+		<ShortName> GoPro HERO11 Black 16-9 </ShortName>
+	</CameraEntry>
 	<!-- 360 -->  
 	<CameraEntry>
 		<Name> GoPro Fusion </Name>
