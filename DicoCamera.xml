@@ -609,6 +609,11 @@ See https://en.wikipedia.org/wiki/Image_sensor_format#Table_of_sensor_formats_an
 		<SzCaptMm> 3.53 6.27 </SzCaptMm>
 		<ShortName> GoPro HERO11 Black 16-9 </ShortName>
 	</CameraEntry>
+	<CameraEntry>
+                <Name> GoPro HERO11 Black 4-3 </Name>
+                <SzCaptMm> 5.52 6.27 </SzCaptMm>
+                <ShortName> GoPro HERO11 Black 4-3 </ShortName>
+        </CameraEntry>
 	<!-- 360 -->  
 	<CameraEntry>
 		<Name> GoPro Fusion </Name>
@@ -619,6 +624,11 @@ See https://en.wikipedia.org/wiki/Image_sensor_format#Table_of_sensor_formats_an
 		<Name> GoPro MAX </Name>
 		<SzCaptMm> 4.71 6.29 </SzCaptMm>
 		<ShortName> GoPro MAX </ShortName>
+	</CameraEntry>
+	<CameraEntry>
+		<Name> GoPro MAX 16-9 1080p </Name>
+		<SzCaptMm> 1.72 3.14 </SzCaptMm>
+		<ShortName> GoPro MAX 16-9 1080p </ShortName>
 	</CameraEntry>
 
 <!-- Smartphones -->   
