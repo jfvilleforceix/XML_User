@@ -775,4 +775,9 @@
         <SzCaptMm>22 22</SzCaptMm>
         <ShortName>Test push #2</ShortName>
     </CameraEntry>
+<CameraEntry>
+        <Name>Test push #3</Name>
+        <SzCaptMm>11.3 5.7</SzCaptMm>
+        <ShortName>Test push #3</ShortName>
+    </CameraEntry>
 </MMCameraDataBase>
