@@ -1,23 +1,4 @@
-<?xml version="1.0" ?>
-<!--
-For reference:
-Sensor 1/3.2"        >>> <SzCaptMm>  3.42  4.54 </SzCaptMm>
-Sensor 1/3"          >>> <SzCaptMm>  3.60  4.80 </SzCaptMm>
-Sensor 1/2.6"        >>> <SzCaptMm>  4.10  5.50 </SzCaptMm>
-Sensor 1/2.5"        >>> <SzCaptMm>  4.29  5.76 </SzCaptMm>
-Sensor 1/2.3"        >>> <SzCaptMm>  6.17  4.56 </SzCaptMm>
-Sensor 1/1.7" Canon  >>> <SzCaptMm>  5.58  7.44 </SzCaptMm>
-Sensor 1/1.7" Pentax >>> <SzCaptMm>  5.70  7.60 </SzCaptMm>
-Sensor 2/3"          >>> <SzCaptMm>  6.60  8.80 </SzCaptMm>
-Sensor 16mm          >>> <SzCaptMm>  7.49 10.26 </SzCaptMm>
-Sensor Micro 4/3     >>> <SzCaptMm> 13.00 17.30 </SzCaptMm>
-Sensor APS-C Canon   >>> <SzCaptMm> 14.80 22.20 </SzCaptMm>
-Sensor APS-C Other   >>> <SzCaptMm> 15.60 23.70 </SzCaptMm>
-Sensor 35mm FF       >>> <SzCaptMm> 24.00 36.00 </SzCaptMm>
-
-This librariy comes with no warranty of accuracy, as some of the values are not always given by the manufactures, and therefor had to be estimated.
-See https://en.wikipedia.org/wiki/Image_sensor_format#Table_of_sensor_formats_and_sizes for more
--->
+<?xml version='1.0' encoding='utf-8'?>
 <MMCameraDataBase>
 
    <CameraEntry>
@@ -46,7 +27,7 @@ See https://en.wikipedia.org/wiki/Image_sensor_format#Table_of_sensor_formats_an
         <ShortName> OpOA0001 </ShortName>
    </CameraEntry>
 
-<!-- Canon DSLR -->
+
    <CameraEntry>
         <Name>  Canon EOS 6D  </Name>
         <SzCaptMm>   24.0 36.0 </SzCaptMm>
@@ -105,7 +86,7 @@ See https://en.wikipedia.org/wiki/Image_sensor_format#Table_of_sensor_formats_an
         <ShortName> Ceos1000D  </ShortName>
    </CameraEntry>
    
-<!-- Canon Compact -->
+
 
    <CameraEntry>
         <Name>  Canon PowerShot G9 </Name>
@@ -143,7 +124,7 @@ See https://en.wikipedia.org/wiki/Image_sensor_format#Table_of_sensor_formats_an
         <ShortName> CPSG1XM3 </ShortName>
    </CameraEntry>  
    
- <!-- Nikon DSLR -->  
+   
  
    <CameraEntry>
         <Name>  NIKON D3X   </Name>
@@ -216,7 +197,7 @@ See https://en.wikipedia.org/wiki/Image_sensor_format#Table_of_sensor_formats_an
         <ShortName> ND90VIDEO  </ShortName>
    </CameraEntry>
    
- <!-- Nikon Compact -->  
+   
  
    <CameraEntry>
         <Name>  NIKON CORPORATION COOLPIX A </Name>
@@ -224,7 +205,7 @@ See https://en.wikipedia.org/wiki/Image_sensor_format#Table_of_sensor_formats_an
         <ShortName> NKCA  </ShortName>
    </CameraEntry>
    
-<!-- Ricoh -->
+
 
    <CameraEntry>
         <Name> RICOH GR DIGITAL 2 </Name>
@@ -242,7 +223,7 @@ See https://en.wikipedia.org/wiki/Image_sensor_format#Table_of_sensor_formats_an
         <ShortName> GR4 </ShortName>
 	</CameraEntry>
 	<CameraEntry> 
-        <Name> GR DIGITAL 3 </Name> <!--Different from "Ricoh GR DIGITAL 3" ??????????-->
+        <Name> GR DIGITAL 3 </Name> 
         <SzCaptMm> 6.1 7.6 </SzCaptMm>
         <ShortName> GR3 </ShortName>
 	</CameraEntry>
@@ -252,17 +233,17 @@ See https://en.wikipedia.org/wiki/Image_sensor_format#Table_of_sensor_formats_an
 		<ShortName> RGXA12  </ShortName>
 	</CameraEntry>
    
-<!-- Pentax DSLR -->
+
 
 	<CameraEntry>
-        <Name> PENTAX K-5  </Name>  <!--  4.807 micron -->
+        <Name> PENTAX K-5  </Name>  
         <SzCaptMm> 16.0 24.0 </SzCaptMm>
         <ShortName> PK5 </ShortName>
 	</CameraEntry>
    
 
         <CameraEntry>
-               <Name> PENTAX K-5 </Name>  <!--  4.807 micron -->
+               <Name> PENTAX K-5 </Name>  
                <SzCaptMm> 16.0 24.0 </SzCaptMm>
                <ShortName> PK5 </ShortName>
         </CameraEntry>
@@ -313,7 +294,7 @@ See https://en.wikipedia.org/wiki/Image_sensor_format#Table_of_sensor_formats_an
         </CameraEntry>   
 
    
-<!-- Sony -->
+
 
 	<CameraEntry>
 		<Name>   NEX-7 </Name>
@@ -321,7 +302,7 @@ See https://en.wikipedia.org/wiki/Image_sensor_format#Table_of_sensor_formats_an
 		<ShortName> NEX-7  </ShortName>
 	</CameraEntry>
 
-<!-- Fujifilm -->   
+   
    
 	<CameraEntry>
 		<Name>  FUJIFILM FinePix S5Pro  </Name>
@@ -335,7 +316,7 @@ See https://en.wikipedia.org/wiki/Image_sensor_format#Table_of_sensor_formats_an
 		<ShortName> Fuji3D  </ShortName>
 	</CameraEntry>
 	
-<!-- Olympus -->
+
 	
 	<CameraEntry>
 		<Name>  OLYMPUS u790SW,S790SW </Name>
@@ -343,7 +324,7 @@ See https://en.wikipedia.org/wiki/Image_sensor_format#Table_of_sensor_formats_an
 		<ShortName> OlMu790  </ShortName>
 	</CameraEntry>
 	
-<!-- Panasonic -->
+
 	
 	<CameraEntry>
 		<Name>  DMC-G2 </Name>
@@ -481,8 +462,8 @@ See https://en.wikipedia.org/wiki/Image_sensor_format#Table_of_sensor_formats_an
 		<ShortName> Panasonic DMC-FZ300  </ShortName>
 	</CameraEntry>
 
-<!-- GoPro -->
-	<!-- HERO -->  
+
+	  
 	<CameraEntry>
 		<Name> GoPro HD HERO </Name>
 		<SzCaptMm> 4.29 5.76 </SzCaptMm>
@@ -603,7 +584,7 @@ See https://en.wikipedia.org/wiki/Image_sensor_format#Table_of_sensor_formats_an
 		<SzCaptMm> 4.71 6.28 </SzCaptMm>
 		<ShortName> GoPro HERO10 Black </ShortName>
 	</CameraEntry>
-	<!-- Same specs for HERO11 Black Mini -->
+	
 	<CameraEntry>
 		<Name> GoPro HERO11 Black 16-9 </Name>
 		<SzCaptMm> 3.53 6.27 </SzCaptMm>
@@ -614,7 +595,7 @@ See https://en.wikipedia.org/wiki/Image_sensor_format#Table_of_sensor_formats_an
                 <SzCaptMm> 5.52 6.27 </SzCaptMm>
                 <ShortName> GoPro HERO11 Black 4-3 </ShortName>
         </CameraEntry>
-	<!-- 360 -->  
+	  
 	<CameraEntry>
 		<Name> GoPro Fusion </Name>
 		<SzCaptMm> 4.55 6.17 </SzCaptMm>
@@ -631,7 +612,7 @@ See https://en.wikipedia.org/wiki/Image_sensor_format#Table_of_sensor_formats_an
 		<ShortName> GoPro MAX 16-9 1080p </ShortName>
 	</CameraEntry>
 
-<!-- Smartphones -->   
+   
    
    <CameraEntry>
         <Name>  Apple iPhone 4 </Name>
@@ -704,7 +685,7 @@ See https://en.wikipedia.org/wiki/Image_sensor_format#Table_of_sensor_formats_an
         <ShortName>iphone14promaincamera </ShortName>
    </CameraEntry>
 
-<!-- Tablets -->  
+  
 	<CameraEntry>
         <Name> Samsung Galaxy Tab A T585 </Name>
         <SzCaptMm> 2.7 3.6 </SzCaptMm>
@@ -712,29 +693,29 @@ See https://en.wikipedia.org/wiki/Image_sensor_format#Table_of_sensor_formats_an
    	</CameraEntry> 
 
 
-<!-- CCTV -->  
+  
 
    <CameraEntry>
         <Name> Hikvision 2MP DS-2CE56D0T-IRMF </Name>
-        <!-- <SzCaptMm> 3.0 5.4 </SzCaptMm> --> 
+         
         <SzCaptMm> 3.0 5.4 </SzCaptMm>
         <ShortName> DS-2CE56D0T-IRMF </ShortName>
    </CameraEntry> 
    <CameraEntry>
         <Name> AXIS P1435-LE </Name>
-        <!-- 4:3 size <SzCaptMm> 3.86 5.14 </SzCaptMm> --> 
+         
         <SzCaptMm> 2.89 5.14 </SzCaptMm>
         <ShortName> AXIS P1435-LE </ShortName>
    </CameraEntry> 
 
-<!-- Action cams -->
+
    <CameraEntry>
 	   <Name> Best Buy Easy Snap HD Aqua WiFi </Name>
         <SzCaptMm> 3.33 5.88 </SzCaptMm>
         <ShortName> BBESHDAW </ShortName>
    </CameraEntry> 
 
-<!-- UAV / drones -->
+
    <CameraEntry>
 	   <Name> FC220 </Name>
         <SzCaptMm> 4.7 6.3 </SzCaptMm>
@@ -771,14 +752,14 @@ See https://en.wikipedia.org/wiki/Image_sensor_format#Table_of_sensor_formats_an
         <ShortName> Mini 4 Pro FC8482 </ShortName>
    </CameraEntry> 
 
-<!-- Other -->	
+	
 	<CameraEntry>
 		<Name> Loemi </Name>
 		<SzCaptMm>  50 30 </SzCaptMm>
 		<ShortName> Loemi </ShortName>
 	</CameraEntry>
 	<CameraEntry>
-		<Name> CamLightLOEMI </Name> <!-- infos pour The Viabon dataset-->
+		<Name> CamLightLOEMI </Name> 
 		<SzCaptMm>  32.7 24.5 </SzCaptMm>
 		<ShortName> CamLightLOEMI </ShortName>
 	</CameraEntry>
@@ -788,12 +769,10 @@ See https://en.wikipedia.org/wiki/Image_sensor_format#Table_of_sensor_formats_an
         <ShortName> Ph1p20  </ShortName>
 	</CameraEntry>
 	<CameraEntry>
-        <Name>  IQ180 </Name> <!-- Phase One A/S -->
+        <Name>  IQ180 </Name> 
         <SzCaptMm>   53.7 40.4 </SzCaptMm>
         <ShortName> IQ180 </ShortName>
 	</CameraEntry>
 
 
-</MMCameraDataBase>
-
-
+<CameraEntry><Name>GoPro Test #1</Name><SzCaptMm>23.4 12.3</SzCaptMm><ShortName>GoPro Test #1</ShortName></CameraEntry></MMCameraDataBase>
