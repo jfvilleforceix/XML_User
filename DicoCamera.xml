@@ -726,4 +726,9 @@
         <SzCaptMm>12 23</SzCaptMm>
         <ShortName>Bonjour</ShortName>
     </CameraEntry>
+    <CameraEntry>
+        <Name>GoPro Hero11</Name>
+        <SzCaptMm>12 15</SzCaptMm>
+        <ShortName>GoPro Hero11</ShortName>
+    </CameraEntry>
 </MMCameraDataBase>
