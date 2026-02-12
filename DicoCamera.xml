@@ -726,11 +726,15 @@ See https://en.wikipedia.org/wiki/Image_sensor_format#Table_of_sensor_formats_an
         <SzCaptMm> 2.89 5.14 </SzCaptMm>
         <ShortName> AXIS P1435-LE </ShortName>
    </CameraEntry> 
-
    <CameraEntry>
         <Name> DS-2CD2T87G2H-LI </Name>
         <SzCaptMm> 4.36 7.75 </SzCaptMm>
         <ShortName> DS-2CD2T87G2H-LI </ShortName>
+   </CameraEntry> 
+   <CameraEntry>
+        <Name> AXIS P1468-LE </Name>
+        <SzCaptMm> 8 10.7 </SzCaptMm>
+        <ShortName> AXIS P1468-LE </ShortName>
    </CameraEntry> 
 
 <!-- Action cams -->
