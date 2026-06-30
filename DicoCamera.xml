@@ -704,14 +704,19 @@ See https://en.wikipedia.org/wiki/Image_sensor_format#Table_of_sensor_formats_an
         <ShortName>iphone14promaincamera </ShortName>
    </CameraEntry>
    <CameraEntry>
-        <Name> iPhone 17 Pro wide x1-6 16-9 </Name>
-        <SzCaptMm> 3.45 6.14 </SzCaptMm>
-        <ShortName>iphone17prowidex16 </ShortName>
+        <Name> iPhone 14 </Name>
+        <SzCaptMm> 4.28 7.6 </SzCaptMm>
+        <ShortName>iphone14maincamera </ShortName>
    </CameraEntry>
    <CameraEntry>
         <Name> iPhone 15 Pro ultrawide x1 16-9 1080p </Name>
         <SzCaptMm> 1.6 2.85 </SzCaptMm>
         <ShortName>iphone15proultrawidex1 </ShortName>
+   </CameraEntry>
+   <CameraEntry>
+        <Name> iPhone 17 Pro wide x1-6 16-9 </Name>
+        <SzCaptMm> 3.45 6.14 </SzCaptMm>
+        <ShortName>iphone17prowidex16 </ShortName>
    </CameraEntry>
 
 <!-- Tablets -->  
